@@ -25,3 +25,6 @@
 Тестирование производилось в следующем окружении:
 * ОС: macOS Catalina 10.15.7
 * Java: 11
+
+Скриншоты
+<img width="1440" alt="Снимок экрана 2021-10-11 в 15 55 00" src="https://user-images.githubusercontent.com/91131257/136812882-ab6712f8-d546-40c6-acd6-6be9517fe34e.png">
